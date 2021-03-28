@@ -1,4 +1,3 @@
-# react-redux-typescript-ulbi
 Проверить работу можно здесь https://enjirtmnv.github.io/react-redux-typescript-ulbi/
 
 # Getting Started with Create React App

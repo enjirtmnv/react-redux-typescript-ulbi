@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-redux-typescript-ulbi/static/js/main.b35f224f.chunk.js",
+    "main.js.map": "/react-redux-typescript-ulbi/static/js/main.b35f224f.chunk.js.map",
+    "runtime-main.js": "/react-redux-typescript-ulbi/static/js/runtime-main.cd92ebed.js",
+    "runtime-main.js.map": "/react-redux-typescript-ulbi/static/js/runtime-main.cd92ebed.js.map",
+    "static/js/2.dd8b0740.chunk.js": "/react-redux-typescript-ulbi/static/js/2.dd8b0740.chunk.js",
+    "static/js/2.dd8b0740.chunk.js.map": "/react-redux-typescript-ulbi/static/js/2.dd8b0740.chunk.js.map",
+    "index.html": "/react-redux-typescript-ulbi/index.html",
+    "static/js/2.dd8b0740.chunk.js.LICENSE.txt": "/react-redux-typescript-ulbi/static/js/2.dd8b0740.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd92ebed.js",
+    "static/js/2.dd8b0740.chunk.js",
+    "static/js/main.b35f224f.chunk.js"
+  ]
+}
